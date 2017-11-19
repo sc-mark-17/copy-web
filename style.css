@@ -1,0 +1,79 @@
+body{
+    font-family:Lato fontsans-serif;
+}
+
+#title{
+    background-color: #13124F;
+}
+
+#tres{
+    width: 20px;
+    height: 19px;
+    color: white;
+    display: inline-block;
+    text-align:center;
+    vertical-align: middle;
+    font-size:100%;
+    border-radius: 50%;
+    background: #352BA5;"
+}
+
+#buttonLearn {
+    background-color: #F61067;
+    color: white;
+}
+
+#buttonMes{
+    background-color: #F61067;
+    color: white;
+}
+
+#welcome{
+    background-color: #9090A5;
+}
+
+#secondBondle{
+    background-color: #13124F;
+}
+
+#inputColor{
+    background-color: #9090A5;
+}
+#Itext{
+    width: 100%;
+    background-color: #1B1B6C;
+}
+
+#buttonSend{
+    background-color: #F61067;
+}
+#referece{
+    background-color: #352BA5;
+}
+
+#textI{
+    text-decoration: underline;
+    color: white;
+}
+
+#secondBound{
+    border: #9090A5 2px solid;
+}
+#lineLeft{
+    background-color: #F61067;
+    height: 8px;
+}
+
+#lineRight{
+    background-color: #2AD392;
+}
+
+#cool{
+    background-color: #F61067;
+    color: white;
+}
+
+#lame{
+    border:#2AD392 2px solid;
+    color:#2AD392;
+}
